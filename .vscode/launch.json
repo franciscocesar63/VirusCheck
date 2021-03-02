@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClienteGordo",
+            "request": "launch",
+            "mainClass": "servidorclientegordo.cliente.ClienteGordo",
+            "projectName": "SocketsProjeto1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ServidorClienteGordo",
+            "request": "launch",
+            "mainClass": "servidorclientegordo.servidor.ServidorClienteGordo",
+            "projectName": "SocketsProjeto1"
+        }
+    ]
+}
